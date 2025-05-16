@@ -1,0 +1,9 @@
+{
+  "model_max_length": 512,
+  "add_bos_token": true,
+  "add_eos_token": true,
+  "do_lower_case": false,
+  "unk_token": "<|endoftext|>",
+  "bos_token": "<|endoftext|>",
+  "eos_token": "<|endoftext|>"
+}
