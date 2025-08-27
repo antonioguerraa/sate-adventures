@@ -1,0 +1,442 @@
+{
+  "airports": [
+    {
+      "code": "ALC",
+      "name": "Alicante Airport",
+      "city": "Alicante",
+      "country": "Spain"
+    },
+    {
+      "code": "AMS",
+      "name": "Amsterdam Schiphol",
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    {
+      "code": "ARN",
+      "name": "Stockholm Arlanda",
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    {
+      "code": "ATH",
+      "name": "Athens International",
+      "city": "Athens",
+      "country": "Greece"
+    },
+    {
+      "code": "BCN",
+      "name": "Barcelona El Prat",
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "code": "BER",
+      "name": "Berlin Brandenburg",
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "code": "BGY",
+      "name": "Milan Bergamo",
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "code": "BHX",
+      "name": "Birmingham Airport",
+      "city": "Birmingham",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "BIO",
+      "name": "Bilbao Airport",
+      "city": "Bilbao",
+      "country": "Spain"
+    },
+    {
+      "code": "BOD",
+      "name": "Bordeaux Airport",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    {
+      "code": "BRU",
+      "name": "Brussels Airport",
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    {
+      "code": "BUD",
+      "name": "Budapest Airport",
+      "city": "Budapest",
+      "country": "Hungary"
+    },
+    {
+      "code": "CDG",
+      "name": "Paris Charles de Gaulle",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "code": "CGN",
+      "name": "Cologne Bonn",
+      "city": "Cologne",
+      "country": "Germany"
+    },
+    {
+      "code": "CIA",
+      "name": "Rome Ciampino",
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "code": "CPH",
+      "name": "Copenhagen Airport",
+      "city": "Copenhagen",
+      "country": "Denmark"
+    },
+    {
+      "code": "CRL",
+      "name": "Brussels Charleroi",
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    {
+      "code": "DUB",
+      "name": "Dublin Airport",
+      "city": "Dublin",
+      "country": "Ireland"
+    },
+    {
+      "code": "DUS",
+      "name": "Düsseldorf Airport",
+      "city": "Düsseldorf",
+      "country": "Germany"
+    },
+    {
+      "code": "EDI",
+      "name": "Edinburgh Airport",
+      "city": "Edinburgh",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "EIN",
+      "name": "Eindhoven Airport",
+      "city": "Eindhoven",
+      "country": "Netherlands"
+    },
+    {
+      "code": "FAO",
+      "name": "Faro Airport",
+      "city": "Faro",
+      "country": "Portugal"
+    },
+    {
+      "code": "FCO",
+      "name": "Rome Fiumicino",
+      "city": "Rome",
+      "country": "Italy"
+    },
+    {
+      "code": "FRA",
+      "name": "Frankfurt Airport",
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    {
+      "code": "GDN",
+      "name": "Gdańsk Airport",
+      "city": "Gdańsk",
+      "country": "Poland"
+    },
+    {
+      "code": "GLA",
+      "name": "Glasgow Airport",
+      "city": "Glasgow",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "GVA",
+      "name": "Geneva Airport",
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    {
+      "code": "HAM",
+      "name": "Hamburg Airport",
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    {
+      "code": "HEL",
+      "name": "Helsinki Airport",
+      "city": "Helsinki",
+      "country": "Finland"
+    },
+    {
+      "code": "IBZ",
+      "name": "Ibiza Airport",
+      "city": "Ibiza",
+      "country": "Spain"
+    },
+    {
+      "code": "KRK",
+      "name": "Kraków Airport",
+      "city": "Kraków",
+      "country": "Poland"
+    },
+    {
+      "code": "LGW",
+      "name": "London Gatwick",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "LIS",
+      "name": "Lisbon Airport",
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    {
+      "code": "LPL",
+      "name": "Liverpool Airport",
+      "city": "Liverpool",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "LTN",
+      "name": "London Luton",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "LUX",
+      "name": "Luxembourg Airport",
+      "city": "Luxembourg",
+      "country": "Luxembourg"
+    },
+    {
+      "code": "LYS",
+      "name": "Lyon Airport",
+      "city": "Lyon",
+      "country": "France"
+    },
+    {
+      "code": "MAD",
+      "name": "Madrid Barajas",
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "code": "AGP",
+      "name": "Málaga Airport",
+      "city": "Málaga",
+      "country": "Spain"
+    },
+    {
+      "code": "MAN",
+      "name": "Manchester Airport",
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "MLA",
+      "name": "Malta Airport",
+      "city": "Luqa",
+      "country": "Malta"
+    },
+    {
+      "code": "MRS",
+      "name": "Marseille Airport",
+      "city": "Marseille",
+      "country": "France"
+    },
+    {
+      "code": "MUC",
+      "name": "Munich Airport",
+      "city": "Munich",
+      "country": "Germany"
+    },
+    {
+      "code": "MXP",
+      "name": "Milan Malpensa",
+      "city": "Milan",
+      "country": "Italy"
+    },
+    {
+      "code": "NAP",
+      "name": "Naples Airport",
+      "city": "Naples",
+      "country": "Italy"
+    },
+    {
+      "code": "NCE",
+      "name": "Nice Airport",
+      "city": "Nice",
+      "country": "France"
+    },
+    {
+      "code": "NCL",
+      "name": "Newcastle Airport",
+      "city": "Newcastle",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "NUE",
+      "name": "Nuremberg Airport",
+      "city": "Nuremberg",
+      "country": "Germany"
+    },
+    {
+      "code": "OPO",
+      "name": "Porto Airport",
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "code": "ORY",
+      "name": "Paris Orly",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "code": "OSL",
+      "name": "Oslo Airport",
+      "city": "Oslo",
+      "country": "Norway"
+    },
+    {
+      "code": "OTP",
+      "name": "Bucharest Airport",
+      "city": "Bucharest",
+      "country": "Romania"
+    },
+    {
+      "code": "PMI",
+      "name": "Palma de Mallorca",
+      "city": "Palma",
+      "country": "Spain"
+    },
+    {
+      "code": "PMO",
+      "name": "Palermo Airport",
+      "city": "Palermo",
+      "country": "Italy"
+    },
+    {
+      "code": "POZ",
+      "name": "Poznań Airport",
+      "city": "Poznań",
+      "country": "Poland"
+    },
+    {
+      "code": "PRG",
+      "name": "Prague Airport",
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    {
+      "code": "PSA",
+      "name": "Pisa Airport",
+      "city": "Pisa",
+      "country": "Italy"
+    },
+    {
+      "code": "RIX",
+      "name": "Riga Airport",
+      "city": "Riga",
+      "country": "Latvia"
+    },
+    {
+      "code": "SKG",
+      "name": "Thessaloniki Airport",
+      "city": "Thessaloniki",
+      "country": "Greece"
+    },
+    {
+      "code": "SOF",
+      "name": "Sofia Airport",
+      "city": "Sofia",
+      "country": "Bulgaria"
+    },
+    {
+      "code": "STN",
+      "name": "London Stansted",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "code": "STR",
+      "name": "Stuttgart Airport",
+      "city": "Stuttgart",
+      "country": "Germany"
+    },
+    {
+      "code": "SVQ",
+      "name": "Seville Airport",
+      "city": "Seville",
+      "country": "Spain"
+    },
+    {
+      "code": "TLS",
+      "name": "Toulouse Airport",
+      "city": "Toulouse",
+      "country": "France"
+    },
+    {
+      "code": "TRN",
+      "name": "Turin Airport",
+      "city": "Turin",
+      "country": "Italy"
+    },
+    {
+      "code": "VCE",
+      "name": "Venice Marco Polo",
+      "city": "Venice",
+      "country": "Italy"
+    },
+    {
+      "code": "VIE",
+      "name": "Vienna Airport",
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "code": "VLC",
+      "name": "Valencia Airport",
+      "city": "Valencia",
+      "country": "Spain"
+    },
+    {
+      "code": "VNO",
+      "name": "Vilnius Airport",
+      "city": "Vilnius",
+      "country": "Lithuania"
+    },
+    {
+      "code": "WAW",
+      "name": "Warsaw Chopin",
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    {
+      "code": "WRO",
+      "name": "Wrocław Airport",
+      "city": "Wrocław",
+      "country": "Poland"
+    },
+    {
+      "code": "ZAG",
+      "name": "Zagreb Airport",
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    {
+      "code": "ZRH",
+      "name": "Zurich Airport",
+      "city": "Zurich",
+      "country": "Switzerland"
+    }
+  ]
+}
